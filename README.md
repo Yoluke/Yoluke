@@ -1,6 +1,6 @@
 ## Olá! eu sou o Lucas 👋
-- 🔭 Hoje trabalho com front-end
-- 🌱 estudando javascript,e outras coisinhas aos poucos!
+- 🔭 Hoje trabalho com back-end
+- 🌱 estudando outras coisinhas aos poucos!
 - 😄 Pronomes: ele/dele
 
 ##
