@@ -1,5 +1,5 @@
 ## Olá! eu sou o Lucas 👋
-- 🔭 Hoje trabalho com Suporte a Negócios 
+- 🔭 Procurando uma oportunidade na area de desenvolvimento
 - 🌱 estudando outras coisinhas aos poucos!
 - 😄 Pronomes: ele/dele
 
