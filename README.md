@@ -1,8 +1,6 @@
-## Olá! eu sou o Lucas 👋
-- 🔭 Procurando uma oportunidade na area de desenvolvimento
-- 🌱 estudando outras coisinhas aos poucos!
-- 😄 Pronomes: ele/dele
-
+## Olá! Me chamo Lucas 👋
+Sou Analista de Suporte com foco em software, com vivência em atendimento técnico, análise de sistemas e conhecimento em programação e banco de dados.
+Atualmente, estou em transição para a área de Desenvolvimento de Software, buscando oportunidades como Desenvolvedor Júnior ou Analista de Sistemas.
 ##
 
 [![Yoluke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoluke&show_icons=true&theme=radical)](https://github.com/Yoluke/github-readme-stats)
