@@ -3,9 +3,6 @@ Sou Analista de Suporte com foco em software, com vivência em atendimento técn
 Atualmente, estou em transição para a área de Desenvolvimento de Software, buscando oportunidades como Desenvolvedor Júnior ou Analista de Sistemas.
 ##
 
-[![Yoluke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoluke&show_icons=true&theme=radical)](https://github.com/Yoluke/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoluke&show_icons=true&theme=radical)](https://github.com/Yoluke/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Luke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luke-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
