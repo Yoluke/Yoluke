@@ -1,6 +1,6 @@
 ## Olá! Me chamo Lucas 👋
 Sou Analista de Suporte com foco em software, com vivência em atendimento técnico, análise de sistemas e conhecimento em programação e banco de dados.
-Atualmente, estou em transição para a área de Desenvolvimento de Software, buscando oportunidades como Desenvolvedor Júnior ou Analista de Sistemas.
+Atualmente, estou em transição para a área de Desenvolvimento de Software, buscando oportunidades como Desenvolvedor.
 ##
 
 <div style="display: inline_block"><br>
